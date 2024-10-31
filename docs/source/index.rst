@@ -1,17 +1,17 @@
 
-###########nhash###########################
-radical.###lname### |version| documentation
-###########nhash###########################
+#######################################
+radical.atomic |version| documentation
+#######################################
 
 This is ...
 
 **Get involved or contact us:**
 
-+-------+---------------------+-----------------------------------------------###ndash###------+
-| |Git| | **GitHub project:** | https://github.com/radical-cybertools/radical.###lname###/     |
-+-------+---------------------+-----------------------------------------###ndash###------------+
-| |Goo| | **Mailing List:**   | https://groups.google.com/forum/#!forum/###lname###-devel      |
-+-------+---------------------+-----------------------------------------###ndash###------------+
++-------+---------------------+------------------------------------------------------------+
+| |Git| | **GitHub project:** | https://github.com/radical-cybertools/radical.atomic/     |
++-------+---------------------+------------------------------------------------------------+
+| |Goo| | **Mailing List:**   | https://groups.google.com/forum/#!forum/atomic-devel      |
++-------+---------------------+------------------------------------------------------------+
 
 .. |Git| image:: images/github.jpg
 .. |Goo| image:: images/google.png
@@ -25,7 +25,7 @@ Contents:
    :numbered:
    :maxdepth: 3
 
-   module_###lname###.rst
+   module_atomic.rst
 
 
 ##################
