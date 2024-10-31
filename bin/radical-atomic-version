@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+import radical.atomic as rat
+
+print("version: %s" % rat.version)
+print("details: %s" % rat.version_detail)
+
