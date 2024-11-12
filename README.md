@@ -1,6 +1,0 @@
-
-Package radical.atomic
-========================
-
-TBD
-
